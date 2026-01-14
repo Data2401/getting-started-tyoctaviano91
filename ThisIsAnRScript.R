@@ -6,3 +6,5 @@ y <- x^2
 
 
 plot(x,y, type = "b", main = "Squared integers")
+
+plot(x,x^3, type = "b", main = "Squared integers")
